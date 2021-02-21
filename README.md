@@ -40,4 +40,14 @@ After the database was complete, the following [analysis](https://github.com/Sus
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
+### [Bonus Analysis](https://github.com/SusanCThomas/Employee-Database_SQL_Challenge/tree/main/Bonus)
+
+Examining the data created a suspicion that the dataset is fake. The following steps were taken to analyze further and create a [visualization](https://github.com/SusanCThomas/Employee-Database_SQL_Challenge/tree/main/Bonus/Images) of the data. 
+
+1. Imported the SQL database and ran the analysis in a [Jupyter Notebook](https://github.com/SusanCThomas/Employee-Database_SQL_Challenge/blob/main/Bonus/Bonus_Analysis.ipynb).
+
+2. Created a [histogram](https://github.com/SusanCThomas/Employee-Database_SQL_Challenge/blob/main/Bonus/Images/salary_range.png) to visualize the most common salary ranges for employees.
+
+3. Created a [bar chart](https://github.com/SusanCThomas/Employee-Database_SQL_Challenge/blob/main/Bonus/Images/avg_salary.png) of average salary by title.
+
 
