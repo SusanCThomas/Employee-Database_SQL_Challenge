@@ -18,4 +18,26 @@ Inspected the CSVs and sketched out an [ERD](https://github.com/SusanCThomas/Emp
 
 ### [Data Engineering](https://github.com/SusanCThomas/Employee-Database_SQL_Challenge/tree/main/Data_Engineering)
 
-Created a [table schema](https://github.com/SusanCThomas/Employee-Database_SQL_Challenge/blob/main/Data_Engineering/Schema.sql) for each of the six [CSV files](https://github.com/SusanCThomas/Employee-Database_SQL_Challenge/tree/main/Data). The CSV files were imported into the corresponsing SQL tables after the data tupe, primary and foreign keys and other constraints were specified. 
+Created a [table schema](https://github.com/SusanCThomas/Employee-Database_SQL_Challenge/blob/main/Data_Engineering/Schema.sql) for each of the six [CSV files](https://github.com/SusanCThomas/Employee-Database_SQL_Challenge/tree/main/Data). The CSV files were imported into the corresponsing SQL tables after the data type, primary and foreign keys and other constraints were specified. 
+
+### [Data Analysis](https://github.com/SusanCThomas/Employee-Database_SQL_Challenge/tree/main/Analysis)
+
+After the database was complete, the following [analysis](https://github.com/SusanCThomas/Employee-Database_SQL_Challenge/blob/main/Analysis/EmployeeData_Analysis.sql) was performed:
+
+1. List the following details of each employee: employee number, last name, first name, sex, and salary.
+
+2. List first name, last name, and hire date for employees who were hired in 1986.
+
+3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
+
+4. List the department of each employee with the following information: employee number, last name, first name, and department name.
+
+5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+
+6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
+
+7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+
+8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
+
